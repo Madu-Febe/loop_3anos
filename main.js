@@ -5,7 +5,7 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual o maior animal terrestre ?");
+    var respostaTime = prompt("Qual o maior animal terrestre do mundo ainda vivo?");
 
     
     if (respostaTime.toLowerCase() === "elefante") {
