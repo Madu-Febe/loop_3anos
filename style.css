@@ -1,8 +1,21 @@
-body{background-color: gainsboro;}
+body{background-color: burlywood;}
 
 h1 {color: black;
+    font-size: 60%;
+    text-align: center;
+    margin: solid 5px gray; 
 }
+
 h2 {color: black;
+    font-size: 20%;
+    text-align: center;
+    margin: solid 2px gray 
+}
+
+a {color: black;
+    font-size: 40%;
+    text-align: center;
+    margin: solid 5px gray 
 }
 
 #texto-animado {
