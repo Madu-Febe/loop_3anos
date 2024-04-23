@@ -12,7 +12,7 @@ function verificarTime() {
       alert("Isso mesmo! O elefante é o maior animal terrestre existente!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
-      alert("A resposta está errada! Tente novamente.");
+      alert("A resposta está errada, tente novamente! A dica é - Animal cinza com grandes trombas e presas.");
     }
   }
 }
